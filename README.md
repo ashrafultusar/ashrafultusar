@@ -28,7 +28,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafultusar&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ashrafultusar's GitHub Stats" />
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/ashrafultusar04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafultusar04/" height="30" width="40" /></a>
 <a href="https://fb.com/ashrafulislamtusar.tusar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrafulislamtusar.tusar" height="30" width="40" /></a>
