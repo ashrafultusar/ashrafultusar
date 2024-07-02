@@ -1,5 +1,5 @@
 
-![I am Jr. frontend web developer](https://i.ibb.co/wW4Cv1p/1.jpg)
+![I am Jr. frontend web developer](https://i.ibb.co/5KQC8Vj/github-header-image.png)
 
 ### Hi there 👋, Ashraful Islam
 #### I am Jr. frontend web developer
