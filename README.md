@@ -47,16 +47,16 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
   <li><a href="https://github.com/ashrafultusar/assignment-10-server-code" target="_blank">Server Side Code</a></li>
 </ul>
 
-<h3>Project 2: Web Portfolio</h3>
+<h3>Project 2: CAREERNESTLE</h3>
 <ul>
-  <li><a href="https://project2-live-link.com" target="_blank">Live Link</a></li>
-  <li><a href="https://github.com/username/project2-client" target="_blank">Client Side Code</a></li>
-  <li><a href="https://github.com/username/project2-server" target="_blank">Server Side Code</a></li>
+  <li><a href="https://careernestel.web.app/" target="_blank">Live Link</a></li>
+  <li><a href="https://github.com/ashrafultusar/assignment-11-clint-code?tab=readme-ov-file" target="_blank">Client Side Code</a></li>
+  <li><a href="https://github.com/ashrafultusar/assignment-11-server-code" target="_blank">Server Side Code</a></li>
 </ul>
 
-<h3>Project 3: E-commerce Site</h3>
+<h3>Project 3: CONVOHUB</h3>
 <ul>
-  <li><a href="https://project3-live-link.com" target="_blank">Live Link</a></li>
-  <li><a href="https://github.com/username/project3-client" target="_blank">Client Side Code</a></li>
-  <li><a href="https://github.com/username/project3-server" target="_blank">Server Side Code</a></li>
+  <li><a href="https://assignment-12-8db85.web.app/" target="_blank">Live Link</a></li>
+  <li><a href="https://github.com/ashrafultusar/assignment-12-clint-code?tab=readme-ov-file" target="_blank">Client Side Code</a></li>
+  <li><a href="https://github.com/ashrafultusar/assignment-12-server-code" target="_blank">Server Side Code</a></li>
 </ul>
