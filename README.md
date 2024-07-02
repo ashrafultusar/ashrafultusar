@@ -77,6 +77,9 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
     <li>Express.js</li>
     <li>HTML</li>
 </ul>
+<h4>Description</h4>
+- D-ART is an art and craft-related website where all kinds of man-made art and crafts are sold. It is a multi-dimensional platform that allows users to
+
 
 <h3>Project 2: CAREERNESTLE</h3>
 <ul>
@@ -96,6 +99,9 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
     <li>HTML</li>
     <li>JWT</li>
 </ul>
+
+<h4>Description</h4>
+- This project is basically an online biased job portal. Here it will help a user to find the job of his choice very easily. Also, a buyer can find employees for any of his upcoming projects A common user can easily select the job of his choice from the filter option by going to the all job section to find the job of his choice and a Bayer can post
 
 
 <h3>Project 3: CONVOHUB</h3>
