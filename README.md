@@ -117,3 +117,5 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
     <li>HTML</li>
     <li>JWT</li>
 </ul>
+<h4>Description</h4>
+- This is a MERN stack-based forum website where users can share their opinions about their social and corporate lives. Other users can like and comment on these posts. It is essentially a platform similar to Facebook.
