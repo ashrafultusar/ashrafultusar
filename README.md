@@ -1,4 +1,4 @@
-![I am Jr. frontend web developer](https://i.ibb.co/2scdJn4/github-header-image-1.png)
+![I am Jr. frontend web developer](https://i.ibb.co/z6wTH34/github-header-image-2.png)
 
 ### Hi there 👋
 #### I am Jr. frontend web developer
