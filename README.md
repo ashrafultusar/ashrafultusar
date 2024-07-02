@@ -8,7 +8,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 
 
 
----
+
 <h2 align="left">Languages and Tools:</h2>
 
 
@@ -18,9 +18,8 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 
 
 
----
 - 🌱 I’m currently learning Javascript 
----
+
 
 
 <h2>Current stats: </h2>
