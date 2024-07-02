@@ -78,7 +78,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
     <li>HTML</li>
 </ul>
 <h4>Description</h4>
-- D-ART is an art and craft-related website where all kinds of man-made art and crafts are sold. It is a multi-dimensional platform that allows users to
+<li>D-ART is an art and craft-related website where all kinds of man-made art and crafts are sold. It is a multi-dimensional platform that allows users to</li>
 
 
 <h3>Project 2: CAREERNESTLE</h3>
