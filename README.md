@@ -41,7 +41,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 
 
 
-<h2>Current stats: </h2>
+<h2>Current stats:</h2>
 <p align="center" style="padding: 40px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafultusar&theme=dark&hide_border=true" alt="ashrafultusar's GitHub Stats" />
 </p>
