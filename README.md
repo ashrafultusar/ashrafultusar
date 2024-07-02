@@ -46,7 +46,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
   <li><a href="https://github.com/ashrafultusar/assignment-10-clint-code" target="_blank">Client Side Code</a></li>
   <li><a href="https://github.com/ashrafultusar/assignment-10-server-code" target="_blank">Server Side Code</a></li>
 </ul>
-<h3>Technologies used:</h3>
+<h4>Technologies used this projects:</h4>
 <ul>
     <li>JavaScript</li>
     <li>Tailwind CSS</li>
@@ -64,10 +64,36 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
   <li><a href="https://github.com/ashrafultusar/assignment-11-clint-code?tab=readme-ov-file" target="_blank">Client Side Code</a></li>
   <li><a href="https://github.com/ashrafultusar/assignment-11-server-code" target="_blank">Server Side Code</a></li>
 </ul>
+<h4>Technologies used this projects:</h4>
+<ul>
+    <li>JavaScript</li>
+    <li>Tailwind CSS</li>
+    <li> React</li>
+    <li> Node.js</li>
+    <li> Firebase</li>
+    <li>MongoDB</li>
+    <li>Express.js</li>
+    <li>HTML</li>
+    <li>JWT</li>
+</ul>
+
 
 <h3>Project 3: CONVOHUB</h3>
 <ul>
   <li><a href="https://assignment-12-8db85.web.app/" target="_blank">Live Link</a></li>
   <li><a href="https://github.com/ashrafultusar/assignment-12-clint-code?tab=readme-ov-file" target="_blank">Client Side Code</a></li>
   <li><a href="https://github.com/ashrafultusar/assignment-12-server-code" target="_blank">Server Side Code</a></li>
+</ul>
+
+<h4>Technologies used this projects:</h4>
+<ul>
+    <li>JavaScript</li>
+    <li>Tailwind CSS</li>
+    <li> React</li>
+    <li> Node.js</li>
+    <li> Firebase</li>
+    <li>MongoDB</li>
+    <li>Express.js</li>
+    <li>HTML</li>
+    <li>JWT</li>
 </ul>
