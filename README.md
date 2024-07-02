@@ -1,6 +1,8 @@
+
+![I am Jr. frontend web developer](https://i.ibb.co/wW4Cv1p/1.jpg)
+
 ### Hi there 👋, Ashraful Islam
 #### I am Jr. frontend web developer
-![I am Jr. frontend web developer](https://i.ibb.co/wW4Cv1p/1.jpg)
 
 Welcome to my portfolio! I'm a passionate frontend developer with a knack for creating visually appealing and highly functional websites. Explore my projects, learn about my journey, and see how I can help bring your web visions to life.
 
