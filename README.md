@@ -46,6 +46,18 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
   <li><a href="https://github.com/ashrafultusar/assignment-10-clint-code" target="_blank">Client Side Code</a></li>
   <li><a href="https://github.com/ashrafultusar/assignment-10-server-code" target="_blank">Server Side Code</a></li>
 </ul>
+<p></p>
+
+<ul>
+  <li>HTML<li>
+    <li>Tailwind CSS</li>
+    <li>JavaScript</li>
+    <li> React</li>
+    <li> Node.js</li>
+    <li> Firebase</li>
+<li>MongoDB</li>
+<li>Express.js</li>
+</ul>
 
 <h3>Project 2: CAREERNESTLE</h3>
 <ul>
