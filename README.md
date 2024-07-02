@@ -101,7 +101,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 </ul>
 
 <h4>Description</h4>
-- This project is basically an online biased job portal. Here it will help a user to find the job of his choice very easily. Also, a buyer can find employees for any of his upcoming projects A common user can easily select the job of his choice from the filter option by going to the all job section to find the job of his choice and a Bayer can post
+<li> This project is basically an online biased job portal. Here it will help a user to find the job of his choice very easily. Also, a buyer can find employees for any of his upcoming projects A common user can easily select the job of his choice from the filter option by going to the all job section to find the job of his choice and a Bayer can post</li>
 
 
 <h3>Project 3: CONVOHUB</h3>
@@ -124,4 +124,4 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
     <li>JWT</li>
 </ul>
 <h4>Description</h4>
-- This is a MERN stack-based forum website where users can share their opinions about their social and corporate lives. Other users can like and comment on these posts. It is essentially a platform similar to Facebook.
+<li>This is a MERN stack-based forum website where users can share their opinions about their social and corporate lives. Other users can like and comment on these posts. It is essentially a platform similar to Facebook.</li>
