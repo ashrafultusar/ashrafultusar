@@ -1,10 +1,10 @@
 
 ![I am Jr. frontend web developer](https://i.ibb.co/5KQC8Vj/github-header-image.png)
 
-## Hi there 👋
-### I am Jr. frontend web developer
+### Hi there 👋
+#### I am Jr. frontend web developer
 
-<p>Welcome to my portfolio! I'm a passionate frontend developer with a knack for creating visually appealing and highly functional websites. Explore my projects, learn about my journey, and see how I can help bring your web visions to life.</p>
+Welcome to my portfolio! I'm a passionate frontend developer with a knack for creating visually appealing and highly functional websites. Explore my projects, learn about my journey, and see how I can help bring your web visions to life.
 
 
 
