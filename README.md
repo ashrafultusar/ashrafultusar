@@ -41,9 +41,10 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 
 <h3>Project 1: Dream ART</h3>
 <ul>
-  <li><a href="https://project1-live-link.com" target="_blank">Live Link</a></li>
-  <li><a href="https://github.com/username/project1-client" target="_blank">Client Side Code</a></li>
-  <li><a href="https://github.com/username/project1-server" target="_blank">Server Side Code</a></li>
+  
+  <li><a href="https://art-and-craft-authentaction.web.app/home" target="_blank">Live Link</a></li>
+  <li><a href="https://github.com/ashrafultusar/assignment-10-clint-code" target="_blank">Client Side Code</a></li>
+  <li><a href="https://github.com/ashrafultusar/assignment-10-server-code" target="_blank">Server Side Code</a></li>
 </ul>
 
 <h3>Project 2: Web Portfolio</h3>
