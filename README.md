@@ -30,7 +30,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 
 
 <h2>Activity:</h2>
-<palign="center">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafultusar&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ashrafultusar's GitHub Stats" />
 </p>
 
