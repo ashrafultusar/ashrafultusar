@@ -9,7 +9,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 
 <h2 align="left">Languages and Tools:</h2>
 
-<p align="center" style="padding: 10px;">
+<p align="center" style="padding: 40px;">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -22,7 +22,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 </p>
 
 <h2>Current stats: </h2>
-<p align="center" style="padding: 10px;">
+<p align="center" style="padding: 40px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafultusar&theme=dark&hide_border=true" alt="ashrafultusar's GitHub Stats" />
 </p>
 
