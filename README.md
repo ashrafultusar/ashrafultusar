@@ -46,8 +46,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
   <li><a href="https://github.com/ashrafultusar/assignment-10-clint-code" target="_blank">Client Side Code</a></li>
   <li><a href="https://github.com/ashrafultusar/assignment-10-server-code" target="_blank">Server Side Code</a></li>
 </ul>
-<p></p>
-
+<p>Technologies used:</p>
 <ul>
   <li>HTML<li>
     <li>Tailwind CSS</li>
