@@ -16,6 +16,6 @@ Skills: React Js.  / Node Js. / Javascript / MongoDB / Firebase / Express Js. / 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafultusar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashrafultusar)  
+
 
 
