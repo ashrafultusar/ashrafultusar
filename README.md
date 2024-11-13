@@ -1,4 +1,5 @@
-![Header](./your-header-image-name.png)
+![Banner](https://github.com/username/repo_name/assets/image.png)
+
 
 
 ### Hi there 👋
