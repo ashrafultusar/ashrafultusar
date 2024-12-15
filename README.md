@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/KNSZnVt/DALL-E-2024-11-13-19-21-21-A-simple-and-minimalistic-Git-Hub-banner-image-with-a-plain-background-in.webp](https://i.ibb.co.com/BGj8ShB/Phoenix-Banner-Image.jpg)
+![My Banner](https://i.ibb.co.com/BGj8ShB/Phoenix-Banner-Image.jpg)
 
 
 
