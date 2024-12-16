@@ -7,7 +7,7 @@
 
 Welcome to my portfolio! I'm a passionate frontend developer with a knack for creating visually appealing and highly functional websites. Explore my projects, learn about my journey, and see how I can help bring your web visions to life.
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and Next.Js
 
 <h2 align="left">Languages and Tools:</h2>
 
