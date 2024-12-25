@@ -1,10 +1,6 @@
-# MERN Stack Developer Portfolio
-
-Welcome to my GitHub portfolio! Here, you'll find a collection of my projects and contributions as a MERN (MongoDB, Express.js, React.js, Node.js) stack developer. I focus on building scalable and efficient web applications that deliver great user experiences.
-
 ![My Banner](https://i.ibb.co.com/BGj8ShB/Phoenix-Banner-Image.jpg)
 
----
+
 
 ### Hi there 👋
 #### I am Jr. frontend web developer
@@ -45,6 +41,8 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
   </a>
 </p>
 
+
+
 <h2>Current stats:</h2>
 <p align="center" style="padding: 40px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafultusar&theme=dark&hide_border=true" alt="ashrafultusar's GitHub Stats" />
@@ -65,6 +63,7 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 
 <h3>Project 1: Dream ART</h3>
 <ul>
+  
   <li><a href="https://art-and-craft-authentaction.web.app/home" target="_blank">Live Link</a></li>
   <li><a href="https://github.com/ashrafultusar/assignment-10-clint-code" target="_blank">Client Side Code</a></li>
   <li><a href="https://github.com/ashrafultusar/assignment-10-server-code" target="_blank">Server Side Code</a></li>
@@ -73,15 +72,16 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 <ul>
     <li>JavaScript</li>
     <li>Tailwind CSS</li>
-    <li>React</li>
-    <li>Node.js</li>
-    <li>Firebase</li>
+    <li> React</li>
+    <li> Node.js</li>
+    <li> Firebase</li>
     <li>MongoDB</li>
     <li>Express.js</li>
     <li>HTML</li>
 </ul>
 <h4>Description</h4>
 <li>D-ART is an art and craft-related website where all kinds of man-made art and crafts are sold. It is a multi-dimensional platform that allows users to</li>
+
 
 <h3>Project 2: CAREERNESTLE</h3>
 <ul>
@@ -93,9 +93,9 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 <ul>
     <li>JavaScript</li>
     <li>Tailwind CSS</li>
-    <li>React</li>
-    <li>Node.js</li>
-    <li>Firebase</li>
+    <li> React</li>
+    <li> Node.js</li>
+    <li> Firebase</li>
     <li>MongoDB</li>
     <li>Express.js</li>
     <li>HTML</li>
@@ -103,7 +103,8 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 </ul>
 
 <h4>Description</h4>
-<li>This project is basically an online biased job portal. Here it will help a user to find the job of his choice very easily. Also, a buyer can find employees for any of his upcoming projects. A common user can easily select the job of his choice from the filter option by going to the all job section to find the job of his choice and a Bayer can post</li>
+<li> This project is basically an online biased job portal. Here it will help a user to find the job of his choice very easily. Also, a buyer can find employees for any of his upcoming projects A common user can easily select the job of his choice from the filter option by going to the all job section to find the job of his choice and a Bayer can post</li>
+
 
 <h3>Project 3: CONVOHUB</h3>
 <ul>
@@ -116,9 +117,9 @@ Welcome to my portfolio! I'm a passionate frontend developer with a knack for cr
 <ul>
     <li>JavaScript</li>
     <li>Tailwind CSS</li>
-    <li>React</li>
-    <li>Node.js</li>
-    <li>Firebase</li>
+    <li> React</li>
+    <li> Node.js</li>
+    <li> Firebase</li>
     <li>MongoDB</li>
     <li>Express.js</li>
     <li>HTML</li>
