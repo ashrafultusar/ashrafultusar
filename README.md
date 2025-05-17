@@ -1,4 +1,5 @@
-![My Banner](https://i.ibb.co/BKcgwsXX/A.jpg)
+![My Banner](https://i.ibb.co/SDkndmy3/freepik-technology-linkedin-profile-cover-20250517083147-HRzk.jpg
+)
 
 
 
