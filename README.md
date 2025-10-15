@@ -1,4 +1,4 @@
-[![FULL-STACK-DEVELOPER](https://i.ibb.co/844QtF9S/FULL-STACK-DEVELOPER.jpg)](https://ibb.co/844QtF9S)
+
 
 
 
