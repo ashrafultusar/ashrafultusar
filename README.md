@@ -1,4 +1,4 @@
-![My Banner](https://i.ibb.co/SDkndmy3/freepik-technology-linkedin-profile-cover-20250517083147-HRzk.jpg
+![My Banner]([https://i.ibb.co/SDkndmy3/freepik-technology-linkedin-profile-cover-20250517083147-HRzk.jpg](https://i.ibb.co.com/tPP1FyDW/FULL-STACK-DEVELOPER.jpg)
 )
 
 
