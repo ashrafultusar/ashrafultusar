@@ -1,130 +1,64 @@
+# Hi, I’m **Ashraful Islam Tusar** 👋  
+_Jr. Frontend Web Developer_
 
+## 🚀 About Me  
+- Passionate about building clean, responsive, and user-friendly web applications.  
+- Currently learning **TypeScript**, **Next.js**, **NextAuth**, and **Postman** for API testing.
 
-
-
-
-### Hi there 👋
-#### I am Jr. frontend web developer
-
-Welcome to my portfolio! I'm a passionate frontend developer with a knack for creating visually appealing and highly functional websites. Explore my projects, learn about my journey, and see how I can help bring your web visions to life.
-
-- 🌱 I’m currently learning TypeScript and Next.Js
-
-<h2 align="left">Languages and Tools:</h2>
-
-<p align="center" style="padding: 40px; background-color: #f0f0f0; border-radius: 10px;">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin: 20px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> 
-  </a>
+## 💻 Languages & Tools  
+<p align="center">  
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />  
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />  
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />  
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />  
+  <img alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />  
+  <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />  
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />  
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />  
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />  
 </p>
 
+## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrafultusar&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafultusar&theme=dark&show_icons=true&hide_border=true&layout=compact)  
 
+## 🔧 Projects
 
-<h2>Current stats:</h2>
-<p align="center" style="padding: 40px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafultusar&theme=dark&hide_border=true" alt="ashrafultusar's GitHub Stats" />
-</p>
+Here are some of my recent projects:
 
-<h2>Activity:</h2>
-<p align="center" style="padding: 10px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafultusar&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ashrafultusar's GitHub Stats" />
-</p>
+### 🌟 Dream ART  
+- **Live:** [Dream ART Website](https://art-and-craft-authentaction.web.app/home)  
+- **Client Code:** [GitHub](https://github.com/ashrafultusar/assignment-10-clint-code)  
+- **Server Code:** [GitHub](https://github.com/ashrafultusar/assignment-10-server-code)  
+- **Technologies:** React, Tailwind CSS, Node.js, Express, Firebase, MongoDB  
+- **Description:** An art & craft e‑commerce platform where users can buy and sell handcrafted products.
 
-<h2 align="left">Connect with me:</h2>
-<p align="center" style="padding: 10px;">
-  <a href="https://linkedin.com/in/ashrafultusar04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafultusar04/" height="30" width="40" /></a>
-  <a href="https://fb.com/ashrafulislamtusar.tusar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrafulislamtusar.tusar" height="30" width="40" /></a>
-</p>
+### 🌟 Careernestle  
+- **Live:** [Careernestle Job Portal](https://careernestel.web.app/)  
+- **Client Code:** [GitHub](https://github.com/ashrafultusar/assignment-11-clint-code)  
+- **Server Code:** [GitHub](https://github.com/ashrafultusar/assignment-11-server-code)  
+- **Technologies:** React, Node.js, Express, Tailwind CSS, JWT, MongoDB, Firebase  
+- **Description:** A biased job portal where employers can post jobs and users can filter jobs by category.
 
-<h2>Visit My Projects:</h2>
+### 🌟 ConvoHub  
+- **Live:** [ConvoHub Forum](https://assignment-12-8db85.web.app/)  
+- **Client Code:** [GitHub](https://github.com/ashrafultusar/assignment-12-clint-code)  
+- **Server Code:** [GitHub](https://github.com/ashrafultusar/assignment-12-server-code)  
+- **Technologies:** MERN Stack, Firebase, JWT  
+- **Description:** A forum website built on MERN where users can post, like, comment — similar to a simplified social network.
 
-<h3>Project 1: Dream ART</h3>
-<ul>
-  
-  <li><a href="https://art-and-craft-authentaction.web.app/home" target="_blank">Live Link</a></li>
-  <li><a href="https://github.com/ashrafultusar/assignment-10-clint-code" target="_blank">Client Side Code</a></li>
-  <li><a href="https://github.com/ashrafultusar/assignment-10-server-code" target="_blank">Server Side Code</a></li>
-</ul>
-<h4>Technologies used this projects:</h4>
-<ul>
-    <li>JavaScript</li>
-    <li>Tailwind CSS</li>
-    <li> React</li>
-    <li> Node.js</li>
-    <li> Firebase</li>
-    <li>MongoDB</li>
-    <li>Express.js</li>
-    <li>HTML</li>
-</ul>
-<h4>Description</h4>
-<li>D-ART is an art and craft-related website where all kinds of man-made art and crafts are sold. It is a multi-dimensional platform that allows users to</li>
+*(আপনি নতুন প্রজেক্ট যুক্ত করতে পারেন নিচে একই স্টাইলেই — নাম, লিঙ্ক, প্রযুক্তি, বর্ণনা)*
 
+## 🧠 What I'm Learning  
+- **TypeScript** — for stronger typing in JavaScript  
+- **Next.js** — for building server-side rendered and static web apps  
+- **NextAuth.js** — for authentication  
+- **Postman** — for API testing
 
-<h3>Project 2: CAREERNESTLE</h3>
-<ul>
-  <li><a href="https://careernestel.web.app/" target="_blank">Live Link</a></li>
-  <li><a href="https://github.com/ashrafultusar/assignment-11-clint-code?tab=readme-ov-file" target="_blank">Client Side Code</a></li>
-  <li><a href="https://github.com/ashrafultusar/assignment-11-server-code" target="_blank">Server Side Code</a></li>
-</ul>
-<h4>Technologies used this projects:</h4>
-<ul>
-    <li>JavaScript</li>
-    <li>Tailwind CSS</li>
-    <li> React</li>
-    <li> Node.js</li>
-    <li> Firebase</li>
-    <li>MongoDB</li>
-    <li>Express.js</li>
-    <li>HTML</li>
-    <li>JWT</li>
-</ul>
+## 📫 Connect With Me  
+- **LinkedIn:** [ashrafultusar04](https://linkedin.com/in/ashrafultusar04/) :contentReference[oaicite:0]{index=0}  
+- **Facebook:** `ashrafulislamtusar.tusar` (এলেখানো লিঙ্ক)  
+- **Email:** `ashrafulislamtusar@gmail.com`
 
-<h4>Description</h4>
-<li> This project is basically an online biased job portal. Here it will help a user to find the job of his choice very easily. Also, a buyer can find employees for any of his upcoming projects A common user can easily select the job of his choice from the filter option by going to the all job section to find the job of his choice and a Bayer can post</li>
+---
 
-
-<h3>Project 3: CONVOHUB</h3>
-<ul>
-  <li><a href="https://assignment-12-8db85.web.app/" target="_blank">Live Link</a></li>
-  <li><a href="https://github.com/ashrafultusar/assignment-12-clint-code?tab=readme-ov-file" target="_blank">Client Side Code</a></li>
-  <li><a href="https://github.com/ashrafultusar/assignment-12-server-code" target="_blank">Server Side Code</a></li>
-</ul>
-
-<h4>Technologies used this projects:</h4>
-<ul>
-    <li>JavaScript</li>
-    <li>Tailwind CSS</li>
-    <li> React</li>
-    <li> Node.js</li>
-    <li> Firebase</li>
-    <li>MongoDB</li>
-    <li>Express.js</li>
-    <li>HTML</li>
-    <li>JWT</li>
-</ul>
-<h4>Description</h4>
-<li>This is a MERN stack-based forum website where users can share their opinions about their social and corporate lives. Other users can like and comment on these posts. It is essentially a platform similar to Facebook.</li>
