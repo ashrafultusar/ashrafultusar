@@ -47,7 +47,7 @@ Here are some of my recent projects:
 - **Technologies:** MERN Stack, Firebase, JWT  
 - **Description:** A forum website built on MERN where users can post, like, comment — similar to a simplified social network.
 
-*(আপনি নতুন প্রজেক্ট যুক্ত করতে পারেন নিচে একই স্টাইলেই — নাম, লিঙ্ক, প্রযুক্তি, বর্ণনা)*
+
 
 ## 🧠 What I'm Learning  
 - **TypeScript** — for stronger typing in JavaScript  
