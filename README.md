@@ -64,11 +64,16 @@ I am a **Software Developer** focused on building high-performance web applicati
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Performance & Commit Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashrafultusar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashrafultusar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafultusar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafultusar&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/rank?username=ashrafultusar&theme=tokyonight&hide_border=true" alt="GitHub Rank" />
 </p>
 
 <p align="center">
@@ -79,5 +84,5 @@ I am a **Software Developer** focused on building high-performance web applicati
 
 <div align="center">
   <h3>Let's build something amazing together! 🚀</h3>
-  <img src="https://komarev.com/ghpvc/?username=ashrafultusar&color=00D1FF&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ashrafultusar&color=00D1FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
