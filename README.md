@@ -1,79 +1,75 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ashraful+Islam+Tusar;MERN+Stack+Developer;Next.js+%26+TypeScript+Expert;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=200&section=header&text=Hi,%20I'm%20Ashraful%20Islam%20Tusar&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
+
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Next.js+%26+PostgreSQL;Problem+Solver+%26+Tech+Learner;Currently+Open+to+Job+Roles" alt="Typing SVG" />
+  </h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/ashrafultusar04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:ashrafulislamtusar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://facebook.com/ashrafulislamtusar.tusar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header&text=Full%20Stack%20Developer&fontSize=30&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 ---
 
-### ⚡ About Me
-I am a **Results-Driven MERN Stack Developer** with a passion for high-quality code and seamless user experiences. I specialize in building scalable web applications using the latest industry standards.
+### 🚀 Professional Summary
+I am a **Software Developer** focused on building high-performance web applications. I specialize in the **MERN Stack** and **Next.js**, crafting seamless user experiences with a focus on clean code and scalable architecture.
 
-- 🔭 **Currently:** Deep diving into **Next.js 15 Server Components** & **PostgreSQL**.
-- 💼 **Job Status:** Actively looking for **Frontend/Full-stack** opportunities.
-- 🛠️ **Expertise:** Authentication (OAuth/NextAuth), Database Optimization, and CI/CD.
-
----
-
-### 🛠️ Tech Stack Ecosystem
-
-<table align="center">
-  <tr>
-    <td align="center" width="200"><strong>Frontend</strong></td>
-    <td align="center" width="200"><strong>Backend & DB</strong></td>
-    <td align="center" width="200"><strong>Tools & Cloud</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CI/CD-222222?style=flat&logo=github-actions&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-    </td>
-  </tr>
-</table>
+* 🎯 **Focus:** Building secure, industry-standard Full-stack applications.
+* 🛠️ **Current Focus:** Mastering **PostgreSQL** and **CI/CD** pipelines.
+* ☁️ **Expertise:** Authentication (OAuth/NextAuth), Database Management, and API Optimization.
 
 ---
 
-### 🚀 Top Projects
+### 🛠️ Tech Ecosystem
 
-> [!IMPORTANT]
-> **Check out my production-ready applications:**
-
-* **[ConvoHub Forum](https://assignment-12-8db85.web.app/)** | *MERN Stack, Firebase, JWT*
-    * Social features like upvoting, role management, and dynamic dashboard.
-* **[Careernestle Job Portal](https://careernestel.web.app/)** | *React, Node.js, MongoDB*
-    * Full job application lifecycle with advanced filtering systems.
-* **[Dream ART Store](https://art-and-craft-authentaction.web.app/home/)** | *React, Tailwind CSS, MongoDB*
-    * A smooth e-commerce experience with real-time data handling.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Stats & Productivity
+### 📂 Featured Projects
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashrafultusar&show_icons=true&theme=transparent&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafultusar&layout=compact&theme=transparent&title_color=00D1FF&text_color=ffffff&hide_border=true" />
-</div>
+#### 🌍 [TS Tour & Travels](https://www.tstourtravels.com/)
+*Travel Agency & Education Consultancy Platform*
+- **User Features:** Search, filter, and sort universities for scholarships; Book Hajj/Umrah, Tourist Visa, and Guide services.
+- **Content:** Dedicated pages for Why Malaysia, Visa Blogs, and Success Stories.
+- **Admin Panel:** Full RBAC (Role-Based Access Control) to manage Universities, Blogs, and Success Stories (Add/Edit/Delete).
+- **Links:** [Live Site](https://www.tstourtravels.com/) | [GitHub Repo](https://github.com/ashrafultusar/ts-tour-travel)
+
+#### 🏨 [Ezzan Global Hospitality](https://github.com/ashrafultusar/Ezzan-Global-Hospitality)
+*Hotel & Tourism Management System*
+- **User Experience:** Comprehensive booking system for Hotels, Rooms, Tour Packages, and Homestays.
+- **Visuals:** Interactive Gallery and Service sections for a premium user journey.
+- **Admin Control:** Advanced Dashboard to manage Rooms, Hotels, Gallery, and Admin Management.
+- **Links:** [GitHub Repo](https://github.com/ashrafultusar/Ezzan-Global-Hospitality)
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashrafultusar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafultusar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafultusar&theme=react-dark&hide_border=true&area=true&color=00D1FF" width="100%" />
@@ -82,6 +78,6 @@ I am a **Results-Driven MERN Stack Developer** with a passion for high-quality c
 ---
 
 <div align="center">
-  <h3>Let's build something amazing together! 🤝</h3>
-  <img src="https://komarev.com/ghpvc/?username=ashrafultusar&color=00D1FF&style=plastic&label=Profile+Hits" />
+  <h3>Let's build something amazing together! 🚀</h3>
+  <img src="https://komarev.com/ghpvc/?username=ashrafultusar&color=00D1FF&style=flat-square&label=PROFILE+VIEWS" />
 </div>
